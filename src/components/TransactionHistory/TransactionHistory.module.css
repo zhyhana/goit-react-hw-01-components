@@ -1,0 +1,30 @@
+.transactionHistory {
+  width: 500px;
+  margin: 0 auto;
+  font-family: 'Lucida Sans Unicode', 'Lucida Grande', Sans-Serif;
+  text-align: left;
+  border-collapse: collapse;
+  background: #ece9e0;
+  color: #656665;
+  border: 16px solid #ece9e0;
+}
+
+.transactionThead,
+.transactionTbody {
+  width: 100%;
+}
+
+tr {
+  width: 100%;
+}
+th {
+  font-size: 18px;
+  padding: 10px;
+  outline: 1px solid silver;
+}
+
+td {
+  outline: 1px solid silver;
+  background: #f5d7bf;
+  padding: 10px;
+}
